@@ -1,0 +1,12 @@
+{
+    "ui": {
+        "port": 10000
+    },
+    "proxies": [
+        {
+            "name": "API",
+            "port": 3000,
+            "target": "http://dev.hairfie.com:3000"
+        }
+    ]
+}

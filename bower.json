@@ -1,0 +1,6 @@
+{
+  "name": "http-debug",
+  "dependencies": {
+    "bootstrap": "~3.3.0"
+  }
+}
